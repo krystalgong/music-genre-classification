@@ -1,5 +1,5 @@
 # music-genre-classification
-  This is the final project for course CSCI-SHU 360-001 Machine Learning done by me and Ren Sheng.
+  This is the final project for course CSCI-SHU 360-001 Machine Learning Spring 2020 done by me and Ren Sheng.
   
   Inspired by personal experience of difficulty in recognizing music genres, the goal of the project is to classify music into different genres, for example, Blues, Rock, and Jazz.
   
